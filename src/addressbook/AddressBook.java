@@ -39,4 +39,10 @@ public class AddressBook {
 				+ PhoneNo + "\n Email id -" + Email);
 	}
 
+	public void address(Object object, Object object2, Object object3, Object object4, Object object5, int i,
+			Object object6, Object object7) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
